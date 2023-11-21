@@ -1,6 +1,6 @@
 var tarefas = [];
 
-var tarefa = document.getElementById("tarefa");
+var tarefa = document.getElementById("tarefa").value;
 var minhaLista = document.getElementById("minhalista");
 
 function registrar(){   
